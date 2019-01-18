@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clean-circle-218217",
+  "private_key_id": "ec831b2a9ef3dc9e9617d08a54daeabc62de32bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxkb3JvjlVJE5M\nKIoNTpitCiUWznt7Zc8yyRVpd660nkSDjHriGPrhe9YUPiMZJjAqJF2Nw0Eq5rcL\nUfaKvbK2Tp/0YY3Tc3WCk7FBLhXAspt3SIoj8+Lg6Ta7iooYT+LGwjGlXEzixu70\n3g2hdbIQFCH3/+L0M6jPPs5M8enVE+pA3+8aNKHawzOHWjLr1xYUySp/NXIcx65H\nvPbJ1Z0ROEg8urEt+A0jpSHGNd8PyxMTESKim5se8fCfkr1HEdpCaZ5cQWSNhcvI\nhHepLg/RV3gmlLihfKbKZkHwSMNKHzJ0jAmy7FlrxandH0kK995YdcyxmDiqmXv6\njX4mKciRAgMBAAECggEAFXmg0GNXH7ryVTeZ6p4UzOirL6TtPjFD68px8n1s/Z8e\nfiJhQjLvNJH7hBs3t3Ts4kvfnKN+oCei/5V8Ea97i5zar32U33vZPF+MUmu2acWw\nE68MNejrCXRrECdjKCmRLaSSyILvMYYJpEeuslY/oL4ulYW29v3AbsATxy6Crygz\n18xbLINt6upwUG5i9yh11bu5bnIZAb8KR0dqW8yzZk/K48U5Y76wr+yiDU0h15Yy\nN9rvKrdWGhu6wUF2LtQpEXAsj6oVv0rBaIpwVuEYjVnRp5nfzJqTwAWPP6+rGVsa\n5gouWgfdnD9PHq1qdz8+ulcH0RteS1WZ1FXQ6vhYmQKBgQDa0VxKDEs/Za0aBRql\nqvKnXCra/7+BmXonk1oAUIYRweY1dKUbHnax0Dye2dlxt4VyOSx7m5T/oVHL6bVM\ntRwo/vkFxEIF2jMfD3TVQ4Uk1vz+4Ga7b8X1HS3s6yg7DCBBQPWEKP3slFQfhoYt\nedYgJvj79SG8EdGVY1bJL8VEvwKBgQDPvg7zQP0jNIq5GeaOTT+9yEPmpo6ysrdF\ng/LEwlYYKhLsOyD7gxFUpwT3pzQU0q7dLv7YlcUkx0Wt0bMU9iOwb8c4q+/zOvYl\n/sRJBCLEZhcQ5zyK+GdK0Wq94txbP8xKHYZ9Il/euS6jRfqteKiflmWOIbamwZwh\ncOs3bJC2rwKBgAJ6OFdGSFvRZOJUiHaztseaTYnpN1vaRv3Ht08lmj79OQQF7BCg\niat9thH+WW3mLAadCxnjKw6x3uE2Ji1WJ5l3OY6NKEo0rDt/y0zW1N0T6g1gsQkS\nPOWHjQuPpgb1HjBe8eirJiTVkRZCSaaeKIR4rHz9y4H7mandVBA3ED61AoGBAKN4\n6KTMqCWy69K6qe2iphz+YUg4GqRN89/08+2XC06alSdlZA/m1JVrlIIZBee43jdZ\nCtt+B5NoZ9Fe6W/+PJlTbE6RJhGdfSLq9qSKZ51qxI3dmIu26vk6D6f6w/HeIzDT\nSQhhK1XFHQkIQTmOcAqcu697ohJY2jaKd922Ra4rAoGAJn9oife5m3S7h8iaNmS3\nctY4XjOnRHzEwwOI43vZk7+w9sZIswi8zyxmUHovsr00n9ilaAS6nRedRODJ1wFh\nwd/mIQXOyiUhn1DSafuscmc3tUK9AQsHwT+im2tgz3w56AYewm5qY7xUAxieucPl\n3QawYmMcieO+slToFn89V9A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "obtaininsurancecardinfo@clean-circle-218217.iam.gserviceaccount.com",
+  "client_id": "101739323238081760836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/obtaininsurancecardinfo%40clean-circle-218217.iam.gserviceaccount.com"
+}
